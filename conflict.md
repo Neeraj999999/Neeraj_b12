@@ -1,2 +1,1 @@
-line1
-line2
+file from t1
